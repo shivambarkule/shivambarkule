@@ -1,6 +1,6 @@
 <!-- ANIMATED HERO TITLE (SVG + Code Glitch Effect) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=38&pause=1000&color=00FFD0&center=true&vCenter=true&width=780&lines=Shivam+Barkule+%7C+Software+Engineer+%F0%9F%92%BB;Hacker%2C+Builder%2C+Linux+Wizard%2C+AI+Ninja;Welcome+to+the+Matrix..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=38&pause=1000&color=00FFD0&center=true&vCenter=true&width=780&lines=        Shivam+Barkule+%7C+Software+Engineer+%F0%9F%92%BB;Hacker%2C+Builder%2C+Linux+Wizard%2C+AI+Ninja;Welcome+to+the+Matrix..." />
   <br>
   <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="64"/>
 </p>
@@ -22,7 +22,7 @@
 ## 👋 Who is Shivam?
 
 > “You can system.out.println() but you can’t system.out.runAwayFromBugs”  
-> <i>- Shivam, probably while fixing prod</i>
+> <i>-    Shivam, probably while fixing prod</i>
 
 - **Title:** Full Stack Engineer | Linux Tinkerer | Cloud Explorer
 - **Role:** AI + API Ninja, Modern DBMS Fanatic, Terminal Trickster
