@@ -154,9 +154,8 @@
 
 <!-- SOCIAL LINKS: Modern Buttons -->
 <div align="center">
-  <a href="mailto:shivambarkule@gmail.com"><img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:shivbarkule019@gmail.com"><img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" /></a>
   <a href="https://linkedin.com/in/shivambarkule"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://twitter.com/shivambarkule"><img src="https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=twitter" /></a>
   <a href="https://instagram.com/shivams_all_along"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" /></a>
 </div>
 
@@ -221,9 +220,8 @@
 
 
 <p align="center">
-  <a href="mailto:shivambarkule@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48"/></a>
+  <a href="mailto:shivbarkule019@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48"/></a>
   <a href="https://linkedin.com/in/shivambarkule"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/></a>
-  <a href="https://twitter.com/shivambarkule"><img src="https://skillicons.dev/icons?i=twitter" width="48"/></a>
   <a href="https://instagram.com/shivams_all_along"><img src="https://skillicons.dev/icons?i=instagram" width="48"/></a>
 </p>
 
