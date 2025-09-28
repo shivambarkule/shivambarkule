@@ -176,3 +176,90 @@
     (just kidding, or am I?)
   </pre>
 </details>
+
+<!-- Latest Blog Posts -->
+### 📰 My Latest Blogs
+<a href="https://dev.to/shivambarkule">
+  <img src="https://github-readme-medium-git-main.pahlevikun.vercel.app/latest?username=shivambarkule" alt="Latest posts from Dev.to" />
+</a>
+
+
+<!-- Pinned Tweet -->
+### 🐦 Latest Tweet
+<a href="https://twitter.com/shivambarkule">
+  <img src="https://gtceo.github.io/twitter-card-shivambarkule.png" alt="Pinned Tweet" />
+</a>
+
+<!-- 3D Model Showcase -->
+### 🕹️ Explore My 3D Work
+<iframe width="320" height="180" src="https://sketchfab.com/models/your-model/embed" frameborder="0"></iframe>
+
+<!-- Stack Overflow Profile Badge -->
+[![Stack Overflow](https://stackexchange.com/users/flair/your-flair-id.png)](https://stackoverflow.com/users/your-stackoverflow-id)
+
+
+<!-- Sponsor Me or Buy Me a Coffee -->
+<p align="center">
+  <a href="https://github.com/sponsors/shivambarkule"><img src="https://img.shields.io/badge/Sponsor%20Me-GitHub%20Sponsors-yellow?logo=github-sponsors&style=for-the-badge"/> </a>
+  <a href="https://www.buymeacoffee.com/shivambarkule"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-orange?style=for-the-badge&logo=buy-me-a-coffee" /></a>
+</p>
+
+<pre>
+<span style="color:#0ff;">01101100 01101001 01101110 01110101 01111000</span>
+</pre>
+<!-- Add this in any section for a matrix effect! -->
+
+<details>
+  <summary>💬 See More Quotes</summary>
+  <ul>
+    <li>"Code is like humor. When you have to explain it, it’s bad."</li>
+    <li>"The best error message is the one that never shows up."</li>
+    <li>"rm -rf /fear"</li>
+    <li>"Hacker tip: Hack yourself before someone else does."</li>
+  </ul>
+</details>
+
+
+<p align="center">
+  <a href="mailto:shivambarkule@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48"/></a>
+  <a href="https://linkedin.com/in/shivambarkule"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/></a>
+  <a href="https://twitter.com/shivambarkule"><img src="https://skillicons.dev/icons?i=twitter" width="48"/></a>
+  <a href="https://instagram.com/shivambarkule"><img src="https://skillicons.dev/icons?i=instagram" width="48"/></a>
+</p>
+
+<!-- Random Quote (shields.io badge updates on refresh) -->
+<img src="<https://img.shields.io/badge/dynamic/json?label=Quote%20of%20the%20day&url=https://zenquotes.io/api/random&query=$>[0].q" />
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shivambarkule&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/yourDiscordID)](https://discord.com/users/yourDiscordID)
+
+
+<!-- Click-to-play music/video -->
+<details>
+  <summary>🔊 Click to play my code anthem!</summary>
+  <audio controls>
+    <source src="your-cool-sound.mp3" type="audio/mpeg">
+  </audio>
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
