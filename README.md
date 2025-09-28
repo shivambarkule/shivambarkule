@@ -1,4 +1,4 @@
-<!-- Profile Header with animated typing effect -->
++<!-- Profile Header with animated typing effect -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Shivam+Barkule+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Making+Coding+Easy%2C+One+Line+at+a+Time+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
@@ -210,3 +210,81 @@ JavaScript   1 hr 20 mins    ██▓░░░░░░░░░░░░░░
   
   *"Making coding easy, one commit at a time!" - Shivam Barkule*
 </div>
+<!-- Dev.to Blog Feed -->
+### 📝 Latest Blog Posts
+<a href="https://dev.to/shivambarkule">
+  <img src="https://github-readme-medium-git-main.pahlevikun.vercel.app/latest?username=shivambarkule" alt="Latest blog posts" />
+</a>
+
+
+<!-- Pinned Tweet -->
+### 🐦 Latest Tweet
+<a href="https://twitter.com/shivambarkule">
+  <img src="https://gtceo.github.io/twitter-card-shivambarkule.png" alt="Pinned Tweet" />
+</a>
+
+<!-- Fancy Contribution Calendar -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shivambarkule&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<!-- Sponsor Me -->
+<p align="center">
+  <a href="https://github.com/sponsors/shivambarkule"><img src="https://img.shields.io/badge/Sponsor%20Me-GitHub%20Sponsors-yellow?style=for-the-badge&logo=github-sponsors"/> </a>
+  <a href="https://www.buymeacoffee.com/shivambarkule"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-orange?style=for-the-badge&logo=buy-me-a-coffee" /></a>
+</p>
+
+
+<!-- CodeSandbox or Replit or StackBlitz Live Demo -->
+[![Open in Repl.it](https://repl.it/badge/github/shivambarkule/Basic_Calculator)](https://repl.it/github/shivambarkule/Basic_Calculator)
+[![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-black?style=for-the-badge&logo=codesandbox)](https://codesandbox.io/s/github/shivambarkule/Personal_Portfolio)
+
+
+<!-- Stack Overflow Flair Badge -->
+[![Stack Overflow](https://stackexchange.com/users/flair/your-flair-id.png)](https://stackoverflow.com/users/your-stackoverflow-id)
+
+<!-- Latest Contributions -->
+### 🔄 Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<!-- GitHub Milestone/Years/Total Commits Badges -->
+![Years Badge](https://badges.pufler.dev/years/shivambarkule)
+![Commits Badge](https://badges.pufler.dev/commits/yearly/shivambarkule)
+![Repos Badge](https://badges.pufler.dev/repos/shivambarkule)
+
+<!-- Discord Custom Status -->
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/yourDiscordID)](https://discord.com/users/yourDiscordID)
+
+
+<!-- Intro Video -->
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=yourvideoid">
+    <img alt="Intro Video" src="https://img.youtube.com/vi/yourvideoid/0.jpg" width="240"/>
+  </a>
+</p>
+
+
+
+<!-- Animated Avatar GIF -->
+<img src="https://media.giphy.com/media/your-gif-id-here/giphy.gif" width="120" />
+
+<!-- Mini-quiz embedded (HTML in Markdown) -->
+<details>
+  <summary>🧠 Quick Dev Quiz! (click to expand)</summary>
+  <pre>
+    Q: Which HTTP status code means 'Not Found'?
+    - A) 200
+    - B) 301
+    - C) 404
+    - D) 500
+    <b>Answer: C) 404</b>
+  </pre>
+</details>
+
+
+
+
+
+
+
+
