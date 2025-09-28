@@ -1,3 +1,137 @@
+
+
+<!-- MODERN HERO INTRO WITH GRADIENT BACKGROUND (SVG) -->
+<p align="center">
+  <img src="https://svgur.com/i/xEZ.svg" width="100%" />
+</p>
+
+<h1 align="center" style="font-family: 'Inter', 'Segoe UI', Arial, sans-serif;">
+  <span style="background: linear-gradient(90deg, #0ea5e9, #34d399, #9333ea); background-clip: text; color: transparent; font-size: 3.7em; font-weight: bold;">
+    Shivam Barkule
+  </span>
+</h1>
+<p align="center">
+  Full-stack Developer • Modern Web • AI • Linux • DBMS
+</p>
+
+---
+
+<!-- ABOUT CARD -->
+<p align="center">
+  <img src="https://img.shields.io/badge/About%20Me-minimal-blueviolet?style=flat&logo=github" />
+</p>
+<div align="center">
+  <blockquote>
+    <b>Building, thinking, and learning with modern web tech. Focused on clean UI, scalable backend, and community-driven open source.</b>
+  </blockquote>
+</div>
+
+---
+
+<!-- MODERN BADGE GRID FOR SKILLS -->
+## 💼 Skills
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,typescript,tailwind,react,nodejs,python,mysql,github,linux,html,css" />
+</div>
+
+---
+
+<!-- EXPERIENCE, CERTIFICATIONS, ACHIEVEMENTS AS MODERN CARDS -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Experience-3%20Years-informational?style=flat&logo=codepen" />
+  <img src="https://img.shields.io/badge/Certifications-DBMS%20%26%20Web%20Fundamentals-success?style=flat&logo=oracle" />
+  <img src="https://img.shields.io/badge/Achievements-Open%20Source-brightgreen?style=flat&logo=star" />
+</div>
+
+---
+
+<!-- MODERN TIMELINE (Mermaid) -->
+## 📈 Journey
+
+
+
+
+timeline
+title Developer Milestones
+2021 : Began building full-stack apps
+2022 : Specialized in Next.js + TypeScript
+2023 : Published XMB Suite, Blog, and SRM
+2024 : Contributed to open source & AI projects
+2025 : Advanced UX, interactive profiles
+
+
+
+---
+
+<!-- PROJECTS IN MODERN CARD GALLERY -->
+## 🚀 Projects
+<div align="center">
+  <table>
+    <tr>
+      <td width="220" align="center">
+        <img src="https://skillicons.dev/icons?i=typescript,react" width="50"/> <br />
+        <b>XMB CRM</b><br />
+        <span>Customer management powered by TypeScript & React.</span><br />
+        <a href="https://github.com/shivambarkule/XMB_CRM"><img src="https://img.shields.io/badge/View%20Repo-0ea5e9?style=flat"/></a>
+      </td>
+      <td width="220" align="center">
+        <img src="https://skillicons.dev/icons?i=typescript,react" width="50"/> <br />
+        <b>Butterflies</b><br />
+        <span>Exam environment for students, modern UI.</span><br />
+        <a href="https://github.com/shivambarkule/Butterflies"><img src="https://img.shields.io/badge/View%20Repo-0ea5e9?style=flat"/></a>
+      </td>
+      <td width="220" align="center">
+        <img src="https://skillicons.dev/icons?i=typescript,react" width="50"/> <br />
+        <b>Personal Portfolio</b><br />
+        <span>My professional portfolio site.</span><br />
+        <a href="https://github.com/shivambarkule/Personal_Portfolio"><img src="https://img.shields.io/badge/View%20Repo-0ea5e9?style=flat"/></a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<!-- LIVE STATS AND MODERN WIDGETS -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shivambarkule&theme=github-dark-blue&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivambarkule&layout=compact&hide_border=true&theme=github_dark"/>
+</div>
+<br />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shivambarkule&color=0ea5e9&style=flat"/>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-uid&cover_image=true&theme=default" />
+</div>
+
+---
+
+<!-- MODERN BLOG FEED (carousel style is limited, so link for blog) -->
+## 📰 Blog
+<p align="center">
+  <a href="https://dev.to/shivambarkule" >
+    <img src="https://img.shields.io/badge/Blog-Dev.to-black?style=flat&logo=devdotto"/>
+  </a>
+</p>
+
+---
+
+<!-- SOCIAL ICON BUTTONS -->
+<div align="center">
+  <a href="https://linkedin.com/in/shivambarkule"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/shivambarkule"><img src="https://img.shields.io/badge/Twitter-1da1f2?style=flat&logo=twitter&logoColor=white"></a>
+  <a href="mailto:shivambarkule@gmail.com"><img src="https://img.shields.io/badge/Email-c14438?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://instagram.com/shivambarkule"><img src="https://img.shields.io/badge/Instagram-e1306c?style=flat&logo=instagram&logoColor=white"></a>
+</div>
+
+---
+
+<!-- MINIMALIST FOOTER -->
+<p align="center" style="font-size: 1.1em; color: #6b7280;">
+  <img src="https://svgur.com/i/xEw.svg" width="60" />
+  <br>
+  <i>Coding in style &mdash; modern, clean, always learning.</i>
+</p>
+
 <!-- ========================================================= -->
 <!-- Animated Hero Banner & Parallax Gradient Title -->
 <!-- ========================================================= --> 
