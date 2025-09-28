@@ -224,7 +224,7 @@
   <a href="mailto:shivambarkule@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48"/></a>
   <a href="https://linkedin.com/in/shivambarkule"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/></a>
   <a href="https://twitter.com/shivambarkule"><img src="https://skillicons.dev/icons?i=twitter" width="48"/></a>
-  <a href="https://instagram.com/shivambarkule"><img src="https://skillicons.dev/icons?i=instagram" width="48"/></a>
+  <a href="https://instagram.com/shivams_all_along"><img src="https://skillicons.dev/icons?i=instagram" width="48"/></a>
 </p>
 
 <!-- Random Quote (shields.io badge updates on refresh) -->
