@@ -245,13 +245,79 @@
   </audio>
 </details>
 
+<pre>
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠛⠛⠀⠀⠈⠙⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⡿⠛⠛⠉⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠉⠉⠛⢻⣿⣿⣿
+⣿⡇⠀⠛⠻⠿⠿⠿⠿⠿⠿⠿⠿⠿⠟⠛⠀⠛⣿⣿⡛⠻⠟⠀⢸⣿⣿⣿
+⣿⡇⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⢀⡀⠀⠀⠀⠀⠀⠈⠀⠀⢸⣿⣿⣿
+</pre>
 
 
 
 
 
+<details>
+  <summary>🌐 Translate my README (for hackers only)</summary>
+  <pre>
+    sudo apt install universal-translator
+    > Language set: Pirate English | Hacker Speak | Emoji-only
+  </pre>
+</details>
 
 
+<img src="https://img.shields.io/badge/Zero%20Production%20Bugs-fake-green?logo=bugatti"/>
+<img src="https://img.shields.io/badge/100%20Coffees%20Drunk-code%20powered-orange?logo=coffee"/>
+<img src="https://img.shields.io/badge/Meme%20Commit%20Master-lol-pink"/>
+
+
+
+<p align="center">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=https://github.com/shivambarkule" />
+  <br><i>Scan me for secret sauce!</i>
+</p>
+
+<details>
+  <summary>⌨️ Typer Challenge: Can you beat this?</summary>
+  <pre>
+    Typing: linux | grep | awk | sed | sudo | echo $PATH
+    [Time Left: 10s]
+  </pre>
+</details>
+
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/U8kA9cY6Pzm2g/giphy.gif" width="340"/>
+  <br>
+  <i>The Real Hacker Terminal!</i>
+</p>
+
+<img src="https://img.shields.io/badge/PL/SQL-learning-lightblue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Prompt-95%25%20Mastered-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JavaScript-ruling%2C+always-black?style=for-the-badge"/>
+
+<pre>
+$ sudo cat ./shivam_barkule_portfolio.txt
+Welcome to Shivam's Hacker Space!
+>
+> Explore projects: [XMB CRM] [Butterflies] [Portfolio]
+> Type 'help' for fun facts.
+</pre>
+
+
+<details>
+  <summary>🍀 Claim your Open Source Luck!</summary>
+  <pre>
+    You just rolled a critical 20—you get instant bug fixes for the week.
+  </pre>
+</details>
+
+
+| Rank | Coder Feat           | Value      |
+|------|----------------------|------------|
+| 🥇   | Fastest hotfix       | <1 min     |
+| 🥈   | Largest meme PR      | 42 commits |
+| 🥉   | Longest code streak  | 10 days    |
 
 
 
