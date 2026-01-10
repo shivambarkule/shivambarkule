@@ -1,291 +1,109 @@
-```
- _____ _   _                 _                    _      _
-/ ____| | | |               | |                  | |    | |
-| (___ | |_| |_   ___   __ _| |_ _ __ ___   ___  | |    | |
- \___ \|  _  | | | \ \ / / _` | __| '_ ` _ \ / _ \ | |    | |
- ____) | | | | |_| |\ V / (_| | |_| | | | | | (_) | |____| |____|
-|_____/|_| |_|\__,_| \_/ \__,_|\__|_| |_| |_|\___/|______|______|
-
-          ✦ HACKER MODE ACTIVATED ✦
-          >> System Access Granted
-          >> Running Elite Protocols
-```
-
 <div align="center">
 
-# ⚡ SHIVAM BARKULE ⚡
-### Full-Stack Penetrator | AI/ML Architect | Code Assassin  
-### Status: `>>> OPERATIONAL <<<` | Threat Level: `CRITICAL`
+# ⬢ SHIVAM BARKULE ⬢
+## Full-Stack Developer | AI/ML Architect | Open Source Contributor
 
-```
-[ ████████████████████████████████ ] 100% ELITE HACKER
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=18&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Building+Scalable+Applications;Training+AI+Models;Shipping+Production+Code;Exploring+New+Technologies)](https://github.com/shivambarkule)
 
 </div>
 
 ---
 
-## 🚣 SYSTEM BREACH IN PROGRESS
+## ● TECHNICAL FOUNDATION
 
-```javascript
-const hacker = {
-  nickname: 'shivambarkule',
-  location: 'Pune, India 🌏',
-  status: '>>> OPERATIONAL <<<',
-  specialization: 'Breaking Code & Fixing @3AM',
-  coffee: 'CRITICAL_DEPENDENCY',
-  sleepMode: false, // who needs sleep?
-  
-  attack() {
-    while (this.coffee > 0) {
-      this.code += 'AWESOME_FEATURES';
-      this.bugs *= 2; // they multiply
-      this.productivity += 'EXPONENTIAL';
-      if (this.deadline < 0) this.ship(); // YOLO
-    }
-  },
-  
-  getStatus() {
-    return 'Always shipping. Always breaking. Always fixing.';
-  }
-};
+### 🎨 Frontend Stack
+```
+React | Next.js | TypeScript | Tailwind CSS
+Framer Motion | Web Design | Responsive UI
+```
+
+### ⚙️ Backend & Infrastructure
+```
+Node.js | Python | Java | Go
+Firebase | PostgreSQL | MongoDB | Docker
+System Design | DevOps | Linux
+```
+
+### 🤖 AI/ML Integration
+```
+GPT-4 | Prompt Engineering
+LLM Training | Vector Databases
+Multi-Agent Systems | RAG Implementation
+```
+
+### ☁️ Cloud & Deployment
+```
+Vercel | AWS | GCP | Azure
+CI/CD Automation | GitHub Actions
+Scaling & Monitoring
 ```
 
 ---
 
-## ✍️ WEAPONIZED TECH ARSENAL
+## ● FEATURED PROJECTS
 
-### ⚔️ OFFENSIVE FRONTEND PAYLOAD
-```
-┌──────────────────────────────┐
-│ React | Next.js | TypeScript | Tailwind CSS │
-│ Framer Motion | Web Design | Animations    │
-│ Responsive UI | Performance Optimization   │
-└──────────────────────────────┘
-```
+| Project | Description | Stack | Status |
+|---------|-------------|-------|--------|
+| **Labyrinth** | AI Exam Management | React, Node.js, GPT-3.5 | Live |
+| **Debate Simulator** | Multi-Agent AI | OpenAI, Real-time | Active |
+| **XMB CRM** | Enterprise System | React, TypeScript | Production |
+| **XMB SRM** | B2B Portal | Next.js, PostgreSQL | Live |
+| **Butterflies** | Exam Platform | React, Firebase | Active |
 
-### 🔥 BACKEND INFILTRATION TOOLS
-```
-┌──────────────────────────────┐
-│ Node.js | Python | Java | Go                 │
-│ PostgreSQL | MongoDB | Firebase | Redis    │
-│ Docker | Kubernetes | System Design       │
-└──────────────────────────────┘
-```
+---
 
-### 🤖 AI/ML EXPLOIT MODULES  
-```
-┌──────────────────────────────┐
-│ GPT-4 Integration | Prompt Engineering    │
-│ LLM Training | Vector DB | RAG Systems   │
-│ Multi-Agent AI | Autonomous Agents       │
-└──────────────────────────────┘
-```
+## ● ACHIEVEMENTS
 
-### ☁️ CLOUD INFRASTRUCTURE
 ```
-┌──────────────────────────────┐
-│ Vercel | AWS | GCP | Azure              │
-│ CI/CD | GitHub Actions | DevOps        │
-│ Scaling | Load Balancing | Monitoring  │
-└──────────────────────────────┘
+20+ Production Applications    [████████████████]
+150+ GitHub Contributions     [████████████████]
+5+ Open Source Components     [████████████████]
+10+ AI Model Integrations     [████████████████]
+50K+ Lines of Code            [████████████████]
 ```
 
 ---
 
-## 🔍 CLASSIFIED OPERATIONS (PROJECTS)
+## ● EXPERTISE AREAS
 
-### 🔐 INFILTRATION SUCCESSFUL - LIVE TARGETS
-
-| 🎉 OPERATION | STATUS | PAYLOAD | THREAT |
-|:---|:---:|:---:|---:|
-| **Labyrinth** | `✓ ACTIVE` | AI Exam System + PDF Parse | 🔴 CRITICAL |
-| **Debate Simulator** | `✓ ACTIVE` | Multi-Agent AI Collab | 🔴 CRITICAL |
-| **XMB CRM** | `✓ DEPLOYED` | Enterprise System (50+ users) | 🔴 CRITICAL |
-| **XMB SRM** | `✓ DEPLOYED` | Supplier Portal (100+ users) | 🔴 CRITICAL |
-| **Butterflies** | `✓ LIVE` | Exam Portal (5K+ students) | 🔴 CRITICAL |
-
----
-
-## 🏆 ELITE ACHIEVEMENTS UNLOCKED
-
-```
-┌──────────────────────────────┐
-│ 20+ PRODUCTION SYSTEMS      [ ■■■■■■■■■■ ] │
-│ 150+ GITHUB CONTRIBUTIONS   [ ■■■■■■■■■■ ] │
-│ 5+ OPEN SOURCE COMPONENTS   [ ■■■■■■■■■■ ] │
-│ 10+ AI INTEGRATIONS         [ ■■■■■■■■■■ ] │
-│ 50K+ LINES OF CODE          [ ■■■■■■■■■■ ] │
-│ ∞ ALL-NIGHTERS              [ ■■■■■■■■■■ ] │
-└──────────────────────────────┘
-```
+✓ Full-Stack Web Development  
+✓ System Design & Architecture  
+✓ AI/ML Model Integration  
+✓ Cloud Infrastructure  
+✓ DevOps & CI/CD Automation  
+✓ Database Design & Optimization  
+✓ Performance Tuning  
+✓ Open Source Contribution  
 
 ---
 
-## 🖣️ HACKER MANIFESTO
+## ● CURRENTLY LEARNING
 
-```python
-while True:
-    if coffee == 0:
-        coffee = refill()  # MANDATORY
-    
-    code.quality = 'MAXIMUM'
-    features.shipped = today
-    bugs.discovered = random(1, infinity)  # exponential growth
-    
-    if deadline_passed:
-        print('\033[92m' + 'SHIPPED WITH HONOR' + '\033[0m')
-    else:
-        optimize(performance)
-        test(rigorously)
-        deploy(confidently)
-    
-    # Sleep is for the weak
-    time.sleep(0)  # 3AM DEBUGGING MODE ENGAGED
-```
+- Advanced AI/ML System Architecture
+- Distributed Systems & Microservices
+- Next.js 14 Advanced Patterns
+- 3D Web Development (Three.js)
+- FAANG Interview Preparation
 
 ---
 
-## 🔯 THREAT ASSESSMENT
+## ● CONNECT WITH ME
 
-✅ **Specialization:** Breaking systems in production & fixing them live  
-✅ **Security Clearance:** Black Hat Approved (Ethical Hacker)  
-✅ **Response Time:** Sub-millisecond (RTO < 1ms)  
-✅ **System Uptime:** 99.9% across all deployments  
-✅ **Code Quality:** Enterprise-grade (Type-safe, Zero-runtime errors)  
-✅ **Deployment Speed:** Feature to Production in minutes  
-
----
-
-## 🕬 COMBAT MODE: LEARNING OBJECTIVES
-
-```
-> apt-get install advanced-ai-systems
-> sudo chmod +x system-design.sh
-> ./master-faang-interviews.py
-> npm run 3d-web-exploits
-> python train-autonomous-agents.py
-```
-
----
-
-## 😈 PERSONALITY TRAITS (CLASSIFIED)
-
-| Attribute | Value |
-|:---|:---:|
-| **TypeScript Preference** | MAXIMUM |
-| **Coffee Dependency** | INFINITE |
-| **Sleep Requirement** | ZERO |
-| **Code Aesthetics** | OBSESSIVE |
-| **Deadline Performance** | LETHAL |
-| **Terminal Mastery** | ELITE |
-| **AI Training Skills** | GODMODE |
-| **Production Reliability** | UNSHAKEABLE |
-
----
-
-## 💋 ATTACK VECTORS (CONTACT METHODS)
-
-```
-┌──────────────────────────────┐
-│ 💼 LinkedIn  → linkedin.com/in/shivambarkule         │
-│ 🐦 Twitter   → twitter.com/shivambarkule            │
-│ 💾 Dev.to    → dev.to/shivambarkule                 │
-│ 🚀 Portfolio → shivam-portfolio-e7a57.web.app       │
-│ 📧 Email     → shivbarkule019@gmail.com              │
-└──────────────────────────────┘
-```
-
----
-
-## 🚀 2026 MISSION OBJECTIVES
-
-```bash
-#!/bin/bash
-# Execute Master Plan
-
- TARGET_1="Contribute to 10+ major open-source projects"
- TARGET_2="Build AI product with 1M+ users"
- TARGET_3="Master all FAANG interview patterns"
- TARGET_4="Land SDE role at TIER-1 company"
- TARGET_5="Create industry-changing dev tool"
- TARGET_6="Build autonomous AI agent that codes"
- TARGET_7="50K+ Twitter followers in tech"
- TARGET_8="Publish advanced ML research paper"
-
- function execute_mission() {
-   for target in "${TARGETS[@]}"; do
-      ./compile
-      ./test --coverage=100
-      ./deploy --confidence=maximum
-   done
-   echo "ALL MISSIONS COMPLETE"
- }
-
- execute_mission
-```
-
----
-
-## 📄 SECURITY CREDENTIALS
-
-```
-┌──────────────────────────────┐
-│ ✅ GitHub Streaks      | 150+ Contributions   │
-│ ✅ Production Systems  | 20+ Live Deployments │
-│ ✅ Code Quality       | Enterprise Grade    │
-│ ✅ System Design      | Architecture Expert │
-│ ✅ DevOps Mastery     | CI/CD Automation     │
-│ ✅ AI Integration     | 10+ LLM Projects    │
-└──────────────────────────────┘
-```
-
----
-
-## 🔨 HACKER PHILOSOPHY
-
-> **"Real hackers don't break systems. We architect them to never break."**
-
-> **"Code today. Debug tomorrow. Ship with confidence."**
-
-> **"Coffee is not a beverage. It's a critical system dependency."**
-
-> **"3AM debugging? That's when the magic happens."**
-
----
-
-## 🐓 FINAL TRANSMISSION
-
-```
-  /\_/\\
- ( o.o )
-  > ^ <
- /|   |\\
-  |   |
- 
- SYSTEM STATUS: >>> OPERATIONAL <<<
- THREAT LEVEL: >>> MAXIMUM <<<
- ELITE STATUS: >>> CONFIRMED <<<
-
- You've reached Shivam Barkule's GitHub.
- Your system is about to be impressed.
- 
- If you need elite-level development,
- You know where to find me.
- 
- ⚠ STAY LEGENDARY ⚠
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivambarkule)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shivambarkule)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/shivambarkule)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shivam-portfolio-e7a57.web.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivbarkule019@gmail.com)
 
 ---
 
 <div align="center">
 
-### 🌐 Made with ❤️ & MAXIMUM COFFEE by Shivam Barkule
+### Made with ❤️ and ☕ by Shivam Barkule
 
-**Last System Update:** January 2026  
-**Status:** `  FOREVER OPERATIONAL`  
-**Next Update:** When the code breaks (never)
+**Last Updated:** January 2026  
+**Status:** Always Building & Shipping
 
-**"In code we trust. In coffee we survive. In shipping we thrive."**
+*"Code today. Ship tomorrow. Optimize forever."*
 
 </div>
