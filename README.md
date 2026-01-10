@@ -1,34 +1,37 @@
 ```
- _____ _     _                           _             _    _ _   _
-/ ____| |   (_)                         | |           | |  | | | | |
-| (___ | |__  ___   ____ _ _ __ ______ | |__   ___   | |__| | |_| |
- \___ \| '_ \| \ \ / / _` | '_ \|______||  _ \ / _ \  |  __  |  _  |
-____) | | | | |\ V / (_| | | | |      | |_) | (_) | | |  | | | | |
-|_____/|_| |_|_| \_/ \__,_|_| |_|      |____/ \___/  |_|  |_|_| |_|
-                BUILD • SHIP • ITERATE
+⠛⠛⣿⣿⣿⣿⣿⡷⢶⣦⣶⣶⣤⣤⣤⣀⠀⠀⠀
+ ⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀
+ ⠀⠀⠀⠉⠉⠉⠙⠻⣿⣿⠿⠿⠛⠛⠛⠻⣿⣿⣇⠀   
+ ⠀⠀⢤⣀⣀⣀⠀⠀⢸⣷⡄⠀⣁⣀⣤⣴⣿⣿⣿⣆    
+ ⠀⠀⠀⠀⠹⠏⠀⠀⠀⣿⣧⠀⠹⣿⣿⣿⣿⣿⡿⣿
+ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⠿⠇⢀⣼⣿⣿⠛⢯⡿⡟
+ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠦⠴⢿⢿⣿⡿⠷⠀⣿⠀   What took you too long, Mate?
+ ⠀⠀⠀⠀⠀⠀⠀⠙⣷⣶⣶⣤⣤⣤⣤⣤⣶⣦⠃⠀  I thoght you would arrive early.
+ ⠀⠀⠀⠀⠀⠀⠀⢐⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀
+ ⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀
+ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠻⢿⣿⣿⣿⣿⠟⠁
 ```
+<!-- ================================================= -->
+<!-- MEGA HERO SECTION -->
+<!-- ================================================= -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Shivam%20Barkule&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20|%20Systems%20Builder&descAlignY=58&descSize=18"/>
+
+</div>
 
 <div align="center">
-  <h1>✨ Full-Stack Engineer | System Designer | Code Quality Fanatic ✨</h1>
-  <p><em>Building boring, reliable systems for real users with real deadlines</em></p>
-  <br>
-  <p>
-    <a href="https://shivam-portfoliov2.web.app" target="_blank">
-      <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-shivam_barkule-0891b2?style=for-the-badge&logo=globe&logoColor=white">
-    </a>
-    &nbsp;
-    <a href="mailto:shivbarkule019@gmail.com">
-      <img alt="Email" src="https://img.shields.io/badge/Email-shivbarkule019-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-    &nbsp;
-    <a href="https://linkedin.com/in/shivambarkule" target="_blank">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-shivambarkule-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    &nbsp;
-    <a href="https://twitter.com/shivambarkule" target="_blank">
-      <img alt="Twitter" src="https://img.shields.io/badge/Twitter-@shivambarkule-1DA1F2?style=for-the-badge&logo=x&logoColor=white">
-    </a>
-  </p>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=700&color=00FFD1&center=true&vCenter=true&width=980&lines=I+design+systems+that+survive+real+users;WordPress+is+my+framework%2C+not+my+limitation;Readable+code+beats+clever+code+every+time;Yes%2C+I+center+divs+professionally;Yes%2C+I+still+Google+syntax" />
+
+<img src="https://img.shields.io/badge/Status-Shipping%20Production%20Code-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Engineering%20Depth-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mindset-Low%20Ego%20High%20Ownership-orange?style=for-the-badge"/>
+
+<a href="https://shivam-portfoliov2.web.app"><img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-orange?style=for-the-badge"></a>
+<a href="https://linkedin.com/in/shivambarkule"><img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-blue?style=for-the-badge"></a>
+<a href="mailto:shivbarkule019@gmail.com"><img src="https://img.shields.io/badge/✉️%20Email-Say%20Hi-red?style=for-the-badge"></a>
+
 </div>
 
 <hr>
@@ -64,19 +67,19 @@ I'm **Shivam Barkule**, a **Full-Stack Engineer** obsessed with building systems
 
 ```javascript
 const myFocus = {
-  users: "real (not hypothetical)",
-  traffic: "real (scale matters)",
-  deadlines: "real (midnight deployments)",
-  bugs: "real (and they multiply)",
-  code: "readable, maintainable, timeless"
-};
-
-const myBelief = `
-  ✅ Boring reliability > Clever code
-  ✅ Clear ownership > Vague contributions
-  ✅ Code that ages well > Code that impresses
-  ✅ User trust > Performance metrics
-  ✅ Team velocity > Individual heroics
+  users: "real (not hypothetical)",                             ⠀⠀⠀ (\**/)**
+⠀⠀ traffic: "real (scale matters)",⠀                                **(•ㅅ•) A Coder is never Wrong,
+   deadlines: "real (midnight deployments)",                     ＿ノヽ ノ＼＿ Client is,
+   bugs: "real (and they multiply)",                             /  / ⌒Ｙ⌒ Ｙ ヽ who don't know his own Requirements.
+   code: "readable, maintainable, timeless"                      ( 　(三ヽ人　 /　 |
+ };                                                              |　ﾉ⌒＼ ￣￣ヽ ノ
+                                                                 ヽ＿＿＿＞､＿_／**
+⠀const myBelief = `                                                 **｜( 王 ﾉ〈** ⠀ **(\**/)
+⠀⠀ ✅ Boring reliability > Clever code                             /ﾐ`ー―彡\ ⠀ (•ㅅ•)
+⠀  ✅ Clear ownership > Vague contributions                       ⠀/ ╰ ╯ \⠀ ⠀ / \>
+   ✅ Code that ages well > Code that impresses
+   ✅ User trust > Performance metrics
+   ✅ Team velocity > Individual heroics
 `;
 ```
 
@@ -101,19 +104,19 @@ I don't believe in "rockstar" culture. I believe in systems that:
 
 ```
 ┌──────────────────────────────────────────┐
-│  🔍 UNDERSTAND CONTEXT                    │
-│  (business goals + user needs + scale)   │
+│  🔍 UNDERSTAND CONTEXT                   │       
+│  (business goals + user needs + scale)   │                          
 ├──────────────────────────────────────────┤
-│  🎨 DESIGN FOR BOREDOM                     │
-│  (simple > complex, maintainable code)  │
+│  🎨 DESIGN FOR BOREDOM                  │
+│  (simple > complex, maintainable code)   │
 ├──────────────────────────────────────────┤
-│  🚀 SHIP IT                              │
+│  🚀 SHIP IT                             │
 │  (perfect is enemy of good enough)       │
 ├──────────────────────────────────────────┤
 │  📊 OBSERVE & MEASURE                   │
-│  (metrics, logs, user feedback matter)  │
+│  (metrics, logs, user feedback matter)   │
 ├──────────────────────────────────────────┤
-│  🔄 ITERATE CALMLY                        │
+│  🔄 ITERATE CALMLY                      │
 │  (without panic, with confidence)        │
 └──────────────────────────────────────────┘
 ```
@@ -236,10 +239,13 @@ const deployment = {
 ### GitHub Stats
 
 ```
-📖 Public Repositories:    Building in public
-👦 Followers:              Growing community  
-🌟 Total Stars:           Recognition for good code
-📄 Contributions:         Consistent shipping mindset
+📖 Public Repositories:    Building in public                   Imagine Dragons - Believer (Audio) ft. Lil Wayne              
+👦 Followers:              Growing community                    0:35 ━❍──────── -3:41  
+🌟 Total Stars:           Recognition for good code             ↻ ⊲ Ⅱ ⊳ ↺    
+📄 Contributions:         Consistent shipping mindset           VOLUME: ▁▂▃▄▅▆▇ 100%
+
+
+
 ```
 
 ### Contribution Philosophy
@@ -314,7 +320,7 @@ const deployment = {
   
   ### 🌟 My Promise
   
-  _Code and coffee at 3AM is my meditation._  
+  _Code and coffee at 3AM is my Grind._  
   _Tea and conversations at 6PM is my celebration._  
   _That's what I call life._
   
@@ -328,6 +334,6 @@ const deployment = {
   
 Full-Stack Development | System Architecture | Code Quality | Team Leadership  
   
-Last Updated: January 2025 | Always Building 🚀
+Last Updated: January 2026 | Always Building 🚀
 
 </div>
