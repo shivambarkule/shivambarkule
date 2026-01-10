@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrMEecVH/giphy.gif" width="25px" height="25px"/>
-</div>
 
 # 🚀 Shivam Barkule
 
@@ -123,14 +120,7 @@ while True:
 
 ---
 
-## 📊 By The Numbers
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shivambarkule&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivambarkule&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%"/>
-
-</div>
 
 ---
 
@@ -168,7 +158,7 @@ while True:
 
 ## 🎭 Fun Facts (100% Real)
 
-<img align="left" src="https://media.giphy.com/media/du3J3cU9NzIkVHz39d/giphy.gif" width="100" height="100" />
+
 
 - 💻 **Prefer TypeScript** over JavaScript because dynamic typing is chaos
 - ☕ **Coffee is not a beverage**, it's a core dependency in my code
@@ -224,7 +214,7 @@ const goals = [
 ### 💡 "Real artists ship. Real developers debug. Real engineers prevent bugs in production." 
 *- Shivam, 3AM, debugging prod*
 
-<img src="https://media.giphy.com/media/l0HlDtKo5Hv8qIHjkn/giphy.gif" width="50" height="50" />
+
 
 **Made with ❤️ and a lot of ☕ by Shivam Barkule**
 
