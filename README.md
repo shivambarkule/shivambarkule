@@ -141,29 +141,29 @@ I don't believe in "rockstar" culture. I believe in systems that:
 
 ### Frontend Supremacy
 ```
-█████████████ React.js         (Advanced - Component Architecture)
-█████████ JavaScript/TS     (Expert - 5+ years)
-████████ Tailwind CSS      (Expert - Design Systems)
-█████ Next.js           (Advanced - SSR/SSG)
-████ HTML/CSS         (Expert - Semantic & Accessible)
+█████████████ React.js         
+█████████ JavaScript/TS     
+████████ Tailwind CSS      
+█████ Next.js           
+████ HTML/CSS         
 ```
 
 ### Backend Dominance  
 ```
-███████████ System Design    (Advanced - Architecture)
-█████████ Node.js           (Advanced - Backend)
-███████ MySQL/PLSQL     (Advanced - Database Design)
-█████ Python           (Advanced - Data & Scripting)
-███ REST APIs        (Expert - Design & Implementation)
+███████████ System Design    
+█████████ Node.js           
+███████ MySQL/PLSQL     
+█████ Python           
+███ REST APIs        
 ```
 
 ### DevOps & Tools
 ```
-███████ Git/GitHub       (Expert - Version Control)
-██████ Firebase        (Advanced - Cloud DB & Auth)
-██████ Vercel          (Advanced - Deployment)
-████ Docker          (Intermediate - Containerization)
-███ CI/CD            (Intermediate - Automation)
+███████ Git/GitHub       
+██████ Firebase        
+██████ Vercel          
+████ Docker          
+███ CI/CD            
 ```
 
 ### Languages
